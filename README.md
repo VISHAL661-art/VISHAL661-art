@@ -29,12 +29,9 @@
 
 ---
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VISHAL661-art&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHAL661-art&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL661-art&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VISHAL661-art&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Connect With Me
