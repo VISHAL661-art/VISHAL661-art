@@ -29,11 +29,11 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VISHAL661-art&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHAL661-art&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL661-art&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL661-art&layout=compact&theme=tokyonight)
 
 ---
 
