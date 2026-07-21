@@ -22,5 +22,5 @@
 - Full Stack Development
 
 📫 Connect With Me
-- LinkedIn: Your LinkedIn Link
+- LinkedIn: https://www.linkedin.com/in/vishal-kumar-022431285/
 - Email: vishal.kr.geez@gmail.com
