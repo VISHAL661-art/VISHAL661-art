@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Kumar
 
-<!--
-**VISHAL661-art/VISHAL661-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year B.Tech CSE (AI & ML) @ VIT Bhopal
 
-Here are some ideas to get you started:
+💻 Tech Stack
+- Java
+- Python
+- React.js
+- Node.js
+- MongoDB
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- AI Virtual Assistant
+- SiteWatch - Website Monitoring System
+- Real-Time Hand Gesture Detection
+- MERN Real Estate Platform
+
+📚 Currently Learning
+- DSA in Java
+- System Design
+- Full Stack Development
+
+📫 Connect With Me
+- LinkedIn: Your LinkedIn Link
+- Email: vishal.kr.geez@gmail.com
