@@ -22,10 +22,10 @@
 
 ### 🚀 Featured Projects
 
+🔹 SITEWATCH - Smart Website & API Monitoring System 
 🔹 AI Virtual Assistant  
-🔹 SiteWatch – Website Monitoring System  
-🔹 Real-Time Hand Gesture Detection  
-🔹 MERN Real Estate Platform  
+🔹 MERN Real Estate Platform 
+🔹 Real-Time Hand Gesture Detection 
 
 ---
 
