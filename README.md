@@ -20,12 +20,15 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 🔹 SITEWATCH - Smart Website & API Monitoring System
-🔹 AI Resume Analyzer  
-🔹 AI Virtual Assistant  
-🔹 MERN Real Estate Platform 
+
+🔹 AI Resume Analyzer
+
+🔹 AI Virtual Assistant
+
+🔹 MERN Real Estate Platform
 
 ---
 
