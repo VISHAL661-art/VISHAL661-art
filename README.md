@@ -23,9 +23,9 @@
 ### 🚀 Featured Projects
 
 🔹 SITEWATCH - Smart Website & API Monitoring System 
+🔹 AI Resume Analyzer  
 🔹 AI Virtual Assistant  
 🔹 MERN Real Estate Platform 
-🔹 Real-Time Hand Gesture Detection 
 
 ---
 
